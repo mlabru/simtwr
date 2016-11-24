@@ -1,0 +1,7 @@
+.pycheckrc
+*.pyc
+*.pyo
+*.out
+*.log
+*.err
+*~

@@ -1,0 +1,98 @@
+       FAMILIA 1
+
+7
+BH12  IROQUOIS        1
+UH1   IROQUOIS        1
+H350  ESQUILO         1
+SK51  SK_51           1
+SK61  SEA_KING        1
+UH1D  IROQUOIS        1
+CH33  PUMA            1
+
+       FAMILIA 2
+
+18
+T25   UNIVERSAL       2
+T23   UIRAPURU        2
+C170  CESSNA_170      2
+C172  CESSNA_172      2
+C195  CESSNA_195      2
+E710  CARIOCA         2
+E200  IPANEMA         2
+E720  MINUANO         2
+E712  TUPI            2
+E810  SENECA          3
+E820  CARAJAS         3
+AC50  COMMANDER       3
+AC60  GRAN_COMMANDER  3
+BE65  QUEEN_AIR       3
+C310  CESSNA_310      3
+C420  CESSNA_420      3
+PA31  NAVAJO          3
+BE55  BONANZA         2
+
+       FAMILIA 3
+
+4
+E110  BANDEIRANTE     3
+C95   BANDEIRANTE     3
+T27   TUCANO          2
+C115  BUFALO          3
+
+       FAMILIA 4
+
+6
+BE90  KING_AIR        3
+E120  BRASILIA        3
+FK27  FOKKER_27       3
+C91   AVRO            3
+E121  XINGU           3
+VU9   XINGU           3
+
+       FAMILIA 5
+
+3
+L188  ELECTRA         4
+VC7   VISCOUNT        4
+C130  HERCULES        4
+
+       FAMILIA 6
+
+8
+AT26  XAVANTE         8
+HS25  HS_125          6
+C500  CITATION        6
+FK28  FOKKER_28       6
+DA50  FALCON          6
+LR25  LEARJET_25      6
+LR55  LEARJET_55      6
+B57   CANBERRA        8
+
+       FAMILIA 7
+
+11
+B737  BOEING_737      5
+DC10  DC_10           5
+L101  TRI_STAR        5
+EA30  AIRBUS          5
+B767  BOEING_767      5
+B757  BOEING_757      5
+DC8   DC_8            7
+B707  BOEING_707      7
+KC37  KC_137          7
+B747  BOEING_747      7
+E190  EMBRAER_190	    5	
+
+       FAMILIA 8
+
+3
+F103  MIRAGE          8
+F5    F_5             8
+F14   F_14            8
+F15
+F16   TOM_CAT
+F18
+F50   TORNADO         8
+
+
+

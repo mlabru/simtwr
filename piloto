@@ -1,0 +1,23 @@
+#!/bin/bash
+
+## -----------------------------------------------------------------------
+#  nome do computador
+#
+HOST=`hostname`
+
+## -----------------------------------------------------------------------
+#  diretorio da aplicacao
+#
+#cd ~/SiCAD/atual
+#cd ~/Public/wrk.acme/pSiCAD/atual
+
+## -----------------------------------------------------------------------
+#  executa a aplicacao
+#
+#/usr/bin/env python -OO ./piloto.py 2> ./piloto.$HOST.out
+/usr/bin/env python ./piloto.py 2> ./piloto.$HOST.out
+
+## -----------------------------------------------------------------------
+#  diretorio raiz
+#
+cd ~

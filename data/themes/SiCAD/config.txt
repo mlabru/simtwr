@@ -1,0 +1,103 @@
+App {
+
+    event:default;
+    #bgimage:bg.png repeat;
+}
+
+Widget {
+
+    event:default;
+    bgimage:button.png slice;
+    #padding:5 10;
+    min-width:30;
+    #width:100;
+    #height:100;
+
+    event:hover;
+    bgimage:button_hover.png slice;
+
+    event:focused;
+    bgimage:button_focused.png slice;
+
+    event:down;
+    bgimage:button_down.png slice;
+
+    event:disabled;
+    bgcolor:(150,150,150);
+    border:1 (100,100,100);
+}
+
+Input {
+
+    event:default;
+    padding:4 1 1 1;
+    color:(0,0,90);
+    bgcolor:(200,200,200);
+    border:1 (100,100,100);
+    font-size:16;
+    font-family:Vera.ttf;
+    antialias:1;
+    height:22;
+
+    event:hover;
+    bgcolor:(170,170,170);
+    border:1 (100,100,100);
+
+    event:focused;
+    bgcolor:(170,170,170);
+    border:1 (100,100,100);
+
+    event:down;
+    bgcolor:(170,170,170);
+    border:1 (100,100,100);
+
+    event:disabled;
+    bgcolor:(130,130,130);
+    border:1 (100,100,100);
+}
+
+Label {
+
+    event:default;
+    font-size:14;
+    font-family:Vera.ttf;
+    antialias:1;
+    color:(205,205,205);
+    #bgcolor:(200,200,200);
+    #border:1 (100,100,100);
+}
+
+Button, Switch {
+
+    event:default;
+    bgcolor:(0,132,0);
+    border:1 (100,100,100);
+    min-width:20;
+    height:28;
+
+    event:hover;
+    bgcolor:(150,150,150);
+    border:1 (100,100,100);
+
+    event:focused;
+    bgcolor:(130,130,130);
+    border:1 (100,100,100);
+
+    event:down;
+    bgcolor:(90,90,90);
+    border:1 (100,100,100);
+
+    event:disabled;
+    bgcolor:(125,15,46);
+    border:1 (100,100,100);
+}
+
+Button Label, Switch Label {
+
+    event:default;
+    font-size:16;
+    antialias:1;
+    align:center;
+    valign:center;
+    color:(255,255,255);
+}

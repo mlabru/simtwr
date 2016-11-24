@@ -1,0 +1,8 @@
+[submodule "libs/cellulose"]
+	path = libs/cellulose
+	url = https://github.com/mlabru/cellulose.git
+
+[submodule "libs/gooeypy"]
+	path = libs/gooeypy
+	url = https://github.com/mlabru/gooeypy.git
+
