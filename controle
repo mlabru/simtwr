@@ -8,14 +8,12 @@ HOST=`hostname`
 ## -----------------------------------------------------------------------
 #  diretorio da aplicacao
 #
-#cd ~/SiCAD/atual
-#cd ~/Public/wrk.acme/pSiCAD/atual
+cd ~/SiCAD
 
 ## -----------------------------------------------------------------------
 #  executa a aplicacao
 #
-#/usr/bin/env python -OO ./controle.py 2> ./controle.$HOST.out
-/usr/bin/env python ./controle.py 2> ./controle.$HOST.out
+/usr/bin/env python -OO ./controle.py 2> ./controle.$HOST.out
 
 ## -----------------------------------------------------------------------
 #  diretorio raiz
